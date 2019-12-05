@@ -1,0 +1,12 @@
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+#center{
+    text-align: center;
+}
+
+html{
+    background-color: rgb(154, 248, 255);
+}
