@@ -1,6 +1,6 @@
 # HelpAppGroup3
 
-### [Demo]()
+### [Demo](https://jacobtaylornwmsu.github.io/HelpAppGroup3/.)
 
 ### [Source](https://github.com/JacobTaylorNWMSU/HelpAppGroup3)
 
